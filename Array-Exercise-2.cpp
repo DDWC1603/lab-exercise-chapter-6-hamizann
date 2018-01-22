@@ -7,18 +7,23 @@ using namespace std;
 int mark[5]={19,10,8,17,9};
 int main()
 {
+	int i;
 	//insert different value to the third element
 	//tukar third element tu dengan value lain
-	mark[]=/*your valie*/
+	mark[3]=9;/*your valie*/
 
 	//get user input and insert sub the third element
 	//tukar the third element yang baru ditukar tu dengan input dari user
-	mark[x];
+	cout<<"Enter new number to change ";
+	cin>>mark[i];
 
 	//print the first element of the array
-	mark[];
+	cout<<"First element"<<mark[0];
+
 
 	//print the ith element of the array
-	mark[x]
+	cin>>mark[i-1];
+	cout<<mark [i];
 
 }
+
